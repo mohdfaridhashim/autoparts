@@ -18,7 +18,7 @@
    "dt": "Fiche technique item", 
    "fetch_from": null, 
    "fetch_if_empty": 0, 
-   "fieldname": "importantitem", 
+   "fieldname": "important", 
    "fieldtype": "Check", 
    "hidden": 0, 
    "idx": 2, 
