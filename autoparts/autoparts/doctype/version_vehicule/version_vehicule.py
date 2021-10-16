@@ -8,7 +8,7 @@ from frappe.model.document import Document
 from erpnext.selling.doctype.sales_order.sales_order import make_material_request
 from erpnext.selling.doctype.sales_order.sales_order import make_sales_invoice
 from frappe.desk.form import assign_to
-from erpnext.utilities.product import get_price, get_qty_in_stock
+from erpnext.utilities.product import get_price
 from frappe import _, msgprint, throw
 from frappe.model.naming import make_autoname
 from frappe.utils import nowdate, getdate
